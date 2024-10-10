@@ -10,3 +10,4 @@ This is a simple Tic Tac Toe game developed using Python. The game allows two pl
 
    ```bash
    python main.py
+# tic-tac-toe
